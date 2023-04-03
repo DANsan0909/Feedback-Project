@@ -4,3 +4,5 @@ hhi therehi therehi therehi therehi therehi therehi therehi therehi therei there
 hhi therehi therehi therehi therehi THEREHi therehi therehi therehi therei there
 'ii' is not recognized as an internal or external command,
 operable program or batch file.
+
+    // "dev": "vite",
